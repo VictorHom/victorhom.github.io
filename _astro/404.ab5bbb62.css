@@ -1,0 +1,1 @@
+:root{--accent: 255, 218, 13;--accent-gradient: linear-gradient(45deg, rgb(var(--accent)), #d2c762 30%, white 60%)}html{font-family:system-ui,sans-serif;background-color:#f6f6f6}code{font-family:Menlo,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New,monospace}[aria-current=page]{font-weight:700}
